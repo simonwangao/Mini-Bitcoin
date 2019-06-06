@@ -1,5 +1,5 @@
 # Mini-Bitcoin
-The Python implementation of mini Bitcoin wallet.  
+The Python implementation of multi-threading mini Bitcoin wallet.  
 
 ## Features
 * Follow most of Bitcoin protocols and block structures  

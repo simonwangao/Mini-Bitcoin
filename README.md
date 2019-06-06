@@ -17,12 +17,12 @@ $ pip3 install -r requirements.txt
 
 Run the wallet with chosen port (default is 10000):   
 ```
-$ python3 Code/main.py -p {port}
+$ python3 src/main.py -p {port}
 ```  
   
 Register the addresses of peers first, then input `help` or `-h` to check legal commands.
 
 
-## Reference
+## References
 1. the [Developer Documentation](https://bitcoin.org/en/developer-documentation) of Bitcoin
 2. this [blog](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)

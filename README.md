@@ -3,7 +3,7 @@ The Python implementation of mini Bitcoin wallet.
 
 ## Features
 * Follow most of Bitcoin protocols and block structures  
-* Support block mining, transaction and verification  
+* Support block mining, transaction/payment and verification  
 * Implement [Merkle Tree](https://en.wikipedia.org/wiki/Merkle_tree) to verify transactions  
 * Use HTTP protocol to connect and set up P2P network
 * The block chain and keys are stored locally to avoid loss
